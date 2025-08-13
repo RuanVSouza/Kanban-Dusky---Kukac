@@ -1,0 +1,23 @@
+{
+  "listas": [
+    "Ideias",
+    "Planejamento",
+    "Em espera",
+    "Revisão final",
+    "Arquivado"
+  ],
+  "tarefas": [
+    "Revisar documentação",
+    "Implementar funcionalidade",
+    "Corrigir bug",
+    "Reunião com cliente",
+    "Testar integração"
+  ],
+  "tags": [
+    "Urgente",
+    "Alta prioridade",
+    "Baixa prioridade",
+    "Backend",
+    "Frontend"
+  ]
+}
