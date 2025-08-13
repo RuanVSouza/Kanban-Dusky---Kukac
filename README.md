@@ -159,3 +159,5 @@ npx cypress run --spec "cypress/e2e/Quadro/QuadroKanban.cy.js"
 ![ResultadoHeadless](cypress/assets/img/ResultadoHeadless.png)
 
 
+## Considerações do teste:
+O teste Kanban Dusky foi bastante satisfatório e me desafiou a relembrar métodos que não utilizava há algum tempo, além de exigir um bom gerenciamento de esforço e tempo. Entreguei um conjunto consistente de casos relevantes, mesmo optando por métodos mais simples. Decidi evitar recursos mais extensos e complexos, como XPath, que poderiam tornar o projeto mais completo e dinâmico, mas não se encaixavam no prazo disponível, o que foi um fator decisivo para a estratégia adotada.
